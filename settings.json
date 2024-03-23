@@ -1,0 +1,49 @@
+{
+  "basic environment": {
+    "website name": "Tom's space",
+    "subtitle": "Hello World!",
+    "meta description": "Tom's webpage",
+    "holder name": "Tom",
+    "holder icon": {
+      "method": "local",
+      "local": {
+        "url": "/src/img/sub-background.png"
+      },
+      "gravatar": {
+        "email": ""
+      }
+    },
+    "background": {
+      "url": "/src/img/background.png"
+    },
+    "signature": {
+      "enabled": true,
+      "content": ">_<",
+      "auto-hide": true
+    },
+    "music": {
+      "enabled": true,
+      "Show Github Icon": true,
+      "data": {
+        "music-1": {
+          "name": "圈住你 - 一口甜",
+          "url": "https://music.youtube.com/watch?v=RR9w_ZSsTvM"
+        }
+      }
+    }
+  },
+  "Link": {
+    "link-1": {
+      "enabled": true,
+      "title": "Facebook",
+      "name": "Fb",
+      "icon": "fa-brands fa-facebook",
+      "url": "facebook.com",
+      "target": "blank"
+    }
+  },
+  "debug": true,
+  "plugins": [
+    "bing-api"
+  ]
+}
